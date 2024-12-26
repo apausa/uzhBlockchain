@@ -75,8 +75,3 @@ Start the server
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at apausa@pablu.xyz
