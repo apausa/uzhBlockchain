@@ -1,6 +1,6 @@
 # Deep Dive into Blockchain
 
-Collaboration with a team of students on a blockchain-based solution supported by Hedera, to verify real users in its hashgraph consensus; as part of the UZH International Summer School.
+Collaboration with a team of students on a blockchain-based solution supported by Hedera, to verify real users in its hashgraph consensus. As part of the UZH International Summer School.
 
 ## Appendix
 
